@@ -1,4 +1,4 @@
-package com.malin.web;
+package com.example.websocketviewtest;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;

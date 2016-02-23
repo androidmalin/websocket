@@ -9,6 +9,6 @@
         android:layout_height="match_parent"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        tools:context="com.malin.web.MainActivity" />
+        tools:context="com.example.websocketviewtest.MainActivity" />
 
 </RelativeLayout>
