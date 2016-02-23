@@ -7,7 +7,7 @@ android {
     defaultConfig {
         applicationId "com.malin.web"
         minSdkVersion 15
-        targetSdkVersion 23
+        targetSdkVersion 15//这个需要特别注意
         versionCode 1
         versionName "1.0"
     }
